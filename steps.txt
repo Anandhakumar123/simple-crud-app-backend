@@ -1,0 +1,38 @@
+npm init -y
+
+index.js file creation
+
+node index.js
+
+package.josn::::::::::::
+"scripts": {
+    "serve": "node index.js"
+  }
+
+npm run serve
+
+npm i express
+
+npm i nodemon -D
+
+package.json::::::::::::
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js",
+    "dev":"nodemon index.js"
+  }
+
+
+npm i mongodb
+
+npm install mongoose
+
+npm i dotenv
+
+
+
+
+anandhakumarnathan
+DbWT7Sy220WUncJB
+
+mongodb+srv://anandhakumarnathan:DbWT7Sy220WUncJB@backenddb.1za97z7.mongodb.net/?retryWrites=true&w=majority&appName=BackendDB
