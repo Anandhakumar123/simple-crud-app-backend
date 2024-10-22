@@ -28,11 +28,3 @@ npm i mongodb
 npm install mongoose
 
 npm i dotenv
-
-
-
-
-anandhakumarnathan
-DbWT7Sy220WUncJB
-
-mongodb+srv://anandhakumarnathan:DbWT7Sy220WUncJB@backenddb.1za97z7.mongodb.net/?retryWrites=true&w=majority&appName=BackendDB
